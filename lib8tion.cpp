@@ -1,6 +1,6 @@
 #define FASTLED_INTERNAL
 #include <stdint.h>
-#include "FastLED.h"
+#include "FastLED-DMA.h"
 
 FASTLED_NAMESPACE_BEGIN
 

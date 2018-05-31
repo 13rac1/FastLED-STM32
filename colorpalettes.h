@@ -1,7 +1,7 @@
 #ifndef __INC_COLORPALETTES_H
 #define __INC_COLORPALETTES_H
 
-#include "FastLED.h"
+#include "FastLED-DMA.h"
 #include "colorutils.h"
 
 ///@file colorpalettes.h

@@ -1,7 +1,7 @@
 #ifndef __INC_COLOR_H
 #define __INC_COLOR_H
 
-#include "FastLED.h"
+#include "FastLED-DMA.h"
 
 FASTLED_NAMESPACE_BEGIN
 

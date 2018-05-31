@@ -1,7 +1,7 @@
 #ifndef __INC_PIXELSET_H
 #define __INC_PIXELSET_H
 
-#include "FastLED.h"
+#include "FastLED-DMA.h"
 
 #ifndef abs
 #include <stdlib.h>

@@ -1,7 +1,7 @@
 #ifndef __INC_NOISE_H
 #define __INC_NOISE_H
 
-#include "FastLED.h"
+#include "FastLED-DMA.h"
 
 FASTLED_NAMESPACE_BEGIN
 

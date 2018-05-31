@@ -1,7 +1,7 @@
 #ifndef __INC_CPP_COMPAT_H
 #define __INC_CPP_COMPAT_H
 
-#include "FastLED.h"
+#include "FastLED-DMA.h"
 
 #if __cplusplus <= 199711L
 

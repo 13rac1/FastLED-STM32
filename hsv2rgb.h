@@ -1,7 +1,7 @@
 #ifndef __INC_HSV2RGB_H
 #define __INC_HSV2RGB_H
 
-#include "FastLED.h"
+#include "FastLED-DMA.h"
 
 #include "pixeltypes.h"
 

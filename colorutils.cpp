@@ -4,7 +4,7 @@
 #include <stdint.h>
 #include <math.h>
 
-#include "FastLED.h"
+#include "FastLED-DMA.h"
 
 FASTLED_NAMESPACE_BEGIN
 
